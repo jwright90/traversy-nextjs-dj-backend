@@ -1,3 +1,6 @@
-# Strapi application
+# Brad Traversy
 
-A quick description of your strapi application
+https://github.com/bradtraversy/dj-events-backend/
+
+## Next JS (DJ Events)
+Follow along Brad Traversy Next JS Udemy course.
